@@ -101,3 +101,9 @@ ENV/
 .mypy_cache/
 
 *.sqlite3
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
